@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Maximiliano Arcos</p>
+<p align="left">I’m Maximiliano Arcos</p>
 
 ###
 
