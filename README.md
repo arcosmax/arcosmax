@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Astro & React</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Astro, React & Next.Js</p>
 
 ###
 
