@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Ω<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">I’m Maximiliano Arcos</p>
+<p align="left">I’m Maximiliano Arcos, a passionate frontend developer from Chile</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="left"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -33,7 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="auto" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
 </div>
 
 ###
